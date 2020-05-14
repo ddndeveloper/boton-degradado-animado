@@ -1,0 +1,104 @@
+.trial{
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  position: absolute;
+  top: 30%;
+  left: 46%;
+  background-image: linear-gradient(to left,#55efc4,#00b894,#55efc4);
+  background-size: 200%;
+  transition: .3s linear;
+  border-radius: 5px;
+}
+
+.trial:hover{
+  text-decoration: none;
+  color: white;
+  background-position: right;
+  transform: scale(1.1);
+}
+
+.trial2{
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  position: absolute;
+  top: 40%;
+  left: 46%;
+  background-image: linear-gradient(to left,#81ecec,#0984e3,#81ecec);
+  background-size: 200%;
+  transition: .3s linear;
+  border-radius: 5px;
+}
+
+.trial2:hover{
+  text-decoration: none;
+  color: white;
+  background-position: right;
+  transform: scale(1.1);
+}
+
+.trial3{
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  position: absolute;
+  top: 50%;
+  left: 46%;
+  background-image: linear-gradient(to left,#a29bfe,#6c5ce7,#a29bfe);
+  background-size: 200%;
+  transition: .3s linear;
+  border-radius: 5px;
+}
+
+.trial3:hover{
+  text-decoration: none;
+  color: white;
+  background-position: right;
+  transform: scale(1.1);
+}
+
+.trial4{
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  position: absolute;
+  top: 60%;
+  left: 46%;
+  background-image: linear-gradient(to left,#ff7675,#d63031,#ff7675);
+  background-size: 200%;
+  transition: .3s linear;
+  border-radius: 5px;
+}
+
+.trial4:hover{
+  text-decoration: none;
+  color: white;
+  background-position: right;
+  transform: scale(1.1);
+}
+
+.trial5{
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  position: absolute;
+  top: 70%;
+  left: 46%;
+  background-image: linear-gradient(to left,#ffeaa7,#fdcb6e,#ffeaa7);
+  background-size: 200%;
+  transition: .3s linear;
+  border-radius: 5px;
+}
+
+.trial5:hover{
+  text-decoration: none;
+  color: white;
+  background-position: right;
+  transform: scale(1.1);
+}
